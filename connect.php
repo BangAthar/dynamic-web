@@ -9,7 +9,7 @@
 $host = "localhost"; // Lokal IP / Lokal Host komputer
 $user = "root"; // User database
 $password = ""; // Password Database
-$db = "crud_nopal"; // Nama Database
+$db = "crud"; // Nama Database
 
 $connect = mysqli_connect($host, $user, $password, $db);
 
